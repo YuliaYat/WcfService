@@ -1,0 +1,13 @@
+C:\Users\Юля\source\repos\WcfServic\ClientService\bin\Debug\ClientService.exe.config
+C:\Users\Юля\source\repos\WcfServic\ClientService\bin\Debug\ClientService.exe
+C:\Users\Юля\source\repos\WcfServic\ClientService\bin\Debug\ClientService.pdb
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.csproj.AssemblyReference.cache
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.Form1.resources
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.Properties.Resources.resources
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.csproj.GenerateResource.cache
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.exe
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.pdb
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.Form2.resources
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.Form4.resources
+C:\Users\Юля\source\repos\WcfServic\ClientService\obj\Debug\ClientService.Form3.resources
